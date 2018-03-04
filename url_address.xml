@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>  
+    <address>
+        <urls name="balance">https://api.coinone.co.kr/v2/account/balance/</urls>
+        <urls name="sellOrder">https://api.coinone.co.kr/v2/order/market_sell/</urls>
+    </address>
+</data>
